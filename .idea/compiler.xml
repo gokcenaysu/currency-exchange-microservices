@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="account" />
+        <module name="fraud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,7 +19,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="exchange" options="-parameters" />
-      <module name="trade" options="" />
+      <module name="exchange-currency" options="" />
     </option>
   </component>
 </project>

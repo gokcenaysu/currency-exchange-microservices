@@ -11,6 +11,7 @@
   <modules>
     <module>account</module>
       <module>eureka-server</module>
+      <module>fraud</module>
   </modules>
 
   <name>trade</name>
